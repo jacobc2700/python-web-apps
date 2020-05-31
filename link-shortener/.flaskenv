@@ -1,0 +1,2 @@
+FLASK_APP=link_shortener
+FLASK_ENV=development
